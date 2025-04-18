@@ -1,0 +1,18 @@
+allegro-manager/
+├── app.py
+├── requirements.txt
+├── .env
+├── templates/
+│   ├── orders.html
+│   ├── accounts.html
+│   ├── messages.html
+│   ├── sales.html
+│   └── 2fa.html
+├── static/
+│   ├── chart.js
+│   └── style.css
+├── allegro_api/
+│   ├── auth.py
+│   └── messages.py
+├── backup.py
+└── docs.pdf (link do dokumentacji)
